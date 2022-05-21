@@ -7,3 +7,7 @@ chat options
 Dark file
 vs code
 python
+
+Payment option
+send money
+receive money
